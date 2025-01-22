@@ -1,0 +1,34 @@
+.idea/
+*.iml
+build/
+*.class
+*.jar
+*.war
+
+# Log files
+*.log
+
+# IDE-specific files
+.DS_Store 
+
+# Local configuration files
+local.properties
+
+# Deployment files
+*.war
+*.ear
+
+# Test results
+**/target/
+
+# Coverage reports
+**/coverage/
+
+# IDE-generated files
+*.iws
+*.xml
+
+# Gradle/Maven files
+.gradle/
+.mvn/
+*/*/build/
